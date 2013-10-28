@@ -1,0 +1,17 @@
+﻿Build started 10/23/2013 5:53:47 PM.
+     1>Project "C:\Users\Jonathan\Desktop\Dancing Robot\Dancing Robot\Dancing Robot.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Dancing Robot.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Dancing Robot.vcxproj -> C:\Users\Jonathan\Desktop\Dancing Robot\Debug\Dancing Robot.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Dancing Robot.unsuccessfulbuild".
+         Touching "Debug\Dancing Robot.lastbuildstate".
+     1>Done Building Project "C:\Users\Jonathan\Desktop\Dancing Robot\Dancing Robot\Dancing Robot.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.27
